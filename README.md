@@ -27,7 +27,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-👉 [Add Streamlit link here once deployed]
+https://movie-recommender-4sqzzi2npsxqvxnbghb666.streamlit.app/
 
 ## 📝 Author
 
