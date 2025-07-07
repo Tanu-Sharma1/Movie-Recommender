@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE settings
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Pickle cache (optional if too big)
+*.pkl
